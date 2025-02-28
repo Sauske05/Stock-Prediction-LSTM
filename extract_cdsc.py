@@ -7,4 +7,4 @@ def load_symbols():
     
 
 if __name__ == "__main__":
-    load_symbols()
+    print(load_symbols())
